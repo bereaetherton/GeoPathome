@@ -1,0 +1,7 @@
+﻿Domain Code,Domain,Reporter Country Code (FAO),Reporter Countries,Partner Country Code (FAO),Partner Countries,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"TM","Detailed trade matrix","250","Democratic Republic of the Congo","7","Angola","5922","Export Value","125","Cassava","2016","2016","1000 US$","","","Official data"
+"TM","Detailed trade matrix","250","Democratic Republic of the Congo","7","Angola","5922","Export Value","125","Cassava","2017","2017","1000 US$","","","Official data"
+"TM","Detailed trade matrix","250","Democratic Republic of the Congo","7","Angola","5922","Export Value","125","Cassava","2019","2019","1000 US$","282","R","Estimated data using trading partners database"
+"TM","Detailed trade matrix","159","Nigeria","7","Angola","5922","Export Value","125","Cassava","2017","2017","1000 US$","","","Official data"
+"TM","Detailed trade matrix","159","Nigeria","7","Angola","5922","Export Value","125","Cassava","2019","2019","1000 US$","0","*","Unofficial figure"
+"TM","Detailed trade matrix","251","Zambia","7","Angola","5922","Export Value","125","Cassava","2016","2016","1000 US$","","","Official data"
